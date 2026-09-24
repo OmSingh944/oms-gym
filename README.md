@@ -21,13 +21,6 @@ The project focuses on creating a clean, modern, and user-friendly gym website l
 
 ## 📂 Project Structure
 
-```text
-OMS-Gym/
-│
-├── index.html
-├── style.css
-└── images/
-```
 
 ## 🎯 Purpose
 
